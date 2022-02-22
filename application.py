@@ -14,7 +14,7 @@ instructions = '''
 home_link = '<p><a href="/">Back</a></p>\n'
 footer_text = '</body>\n</html>'
 
-# EB looks for an 'application' callable by default.
+# EB looks for an 'application' callable by default.############
 application = Flask(__name__)
 
 # add a rule for the index page.
